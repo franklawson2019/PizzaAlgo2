@@ -1,2 +1,4 @@
 Decide which business to order from
 Decide which type of pizza to order 
+Decide what sides you want to add 
+Decide what drinks you want 
